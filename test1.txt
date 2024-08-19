@@ -1,0 +1,10 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is C0DE-A819
+
+ Directory of C:\Users\asingu\Desktop\MyGITProject
+
+19/08/2024  12:05    <DIR>          .
+19/08/2024  12:05    <DIR>          ..
+19/08/2024  12:05                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,260,326,912 bytes free
